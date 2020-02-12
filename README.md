@@ -11,7 +11,7 @@ Steps to run api
 6.	Click on API link to get help regarding api end point or navigate to 
 7.	Use base url to hit api
 
-Below are API are present in application
+Below APIs are present in application
 1.	GET {baseurl}/api/Contact
 Returns List of Contact
 2.	POST {baseurl}/api/Contact
