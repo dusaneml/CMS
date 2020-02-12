@@ -3,7 +3,7 @@ It is used to manage  contacts
 
 Steps to run api
 
-1.	Extract ContactManagementSystem zip file
+1.	Clone CMS 
 2.	Open ContactManagementSystem folder
 3.	Open ContactManagementSystem.sln using Visual Studio 2019
 4.	Build application 
